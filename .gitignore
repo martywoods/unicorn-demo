@@ -266,3 +266,4 @@ Databases/Scripts/Sessions db performance boost.sql
 Data/webdav.lic
 Databases/
 Website/
+Projects/src/UnicornDemoSite/App_Config/ConnectionStrings.config
