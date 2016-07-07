@@ -156,7 +156,8 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Demo.Renderings.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Content.config.demo" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Demo.Renderings.config.demo" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
